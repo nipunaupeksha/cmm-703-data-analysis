@@ -1,0 +1,17 @@
+Variable Description
+
+Time: The timestamp of each weather observation.
+Weather Code: A numerical code representing the weather conditions at the given time.
+Temperature: Maximum, minimum, and mean values of 2-meter temperature.
+Apparent Temperature: Maximum, minimum, and mean values of apparent temperature, which takes into account factors like wind chill or heat index.
+Sunrise and Sunset: The times of sunrise and sunset for each day.
+Shortwave Radiation: Sum of shortwave radiation received during the observation period.
+Precipitation: Total sum of precipitation, including rainfall and snowfall.
+Precipitation Hours: The duration of time with measurable precipitation.
+Wind Speed and Gusts: Maximum values of wind speed and wind gusts at 10 meters above ground level.
+Wind Direction: Dominant wind direction at 10 meters above ground level.
+Evapotranspiration: Reference evapotranspiration (ET0) based on the FAO Penman-Monteith equation.
+Latitude, Longitude, and Elevation: Geographic coordinates and elevation of each city.
+Country and City: Names of the country and city corresponding to each weather observation.
+
+This dataset was sourced from Open-Meteo and simplemaps and downloaded from Kaggle.com.
